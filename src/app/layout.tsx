@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     url: "https://srpo.pages.dev",
     images: [
       {
-        url: "og.png",
+        url: "https://srpo.pages.dev/og_image.png",
         width: 1200,
         height: 630,
         alt: "SRPO - A novel framework that enhances the reasoning capabilities of multimodal large language models",
